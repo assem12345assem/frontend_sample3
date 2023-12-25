@@ -1,0 +1,126 @@
+body{
+  font-family: 'Istok Web', sans-serif;
+}
+.cont-ainer{
+  padding: 0 70px
+}
+ .purple-bg{
+   background: #775ba3;
+ }
+ .my-btn-login{
+   font-size: 20px bold;
+   color: #fff;
+   border: none;
+   padding: 10px 15px;
+ }
+ .form-title{
+   color: #775ba3;
+   font-size: 30px;
+   text-transform: none;
+ }
+ .nav-link{
+   font-size: 14px;
+ }
+ .my-button{
+   color: #fff;
+   background: transparent;
+   border: none;
+   font-size: 28px;
+ }
+ .block-titles{
+   color: #775ba3;
+   font-size: 40px;
+ }
+.text-body{
+  color: #4b3f55;
+}
+.main-block-text{
+  font-size: 23px;
+}
+.carousel-indicators [data-bs-target]{
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: transparent;
+  border: 2px solid #fff;
+  opacity: 1;
+  align-self: center;
+}
+.carousel-indicators .active{
+  background: #fff;
+  width: 8px;
+  height: 8px;
+  margin-top: 2px;
+}
+.second-block{
+  border-top: 1px solid rgba(131, 158, 131, 0.747);
+  border-bottom: 1px solid rgba(131, 158, 131, 0.747);
+}
+.my-icon{
+  font-size: 60px;
+  line-height: 110px;
+}
+.my-card-text{
+  font-size: 13px;
+  color: #4b3f55;
+}
+.my-icon-border{
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.photo-picture {
+  border-radius: 0;
+  border: none;
+}
+.person-name{
+  font-size: 15px;
+  color: #91c5a9;
+  border-top: 3px solid #91c5a9;
+  border-bottom: 3px solid #91c5a9;
+}
+.profession{
+  font-size: 12px;
+}
+.person-description-text{
+  font-size: 13px;
+  color: #4b3f55;
+  margin-bottom: 0;
+}
+.my-link{
+  font-size: 30px;
+  padding: 5% 25% 10%;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  text-shadow: 2px 2px #4b3f55;
+}
+a:hover{
+  color: #91c5a9;
+}
+.facebook-link{ 
+  background: #3c5a9a;
+}
+.google-link{
+  background: #d24333;
+}
+.dribble-link{
+  background: #ea4c87;
+}
+.twitter-link{
+  background: #00acec;
+}
+.youtube-link{
+  background: #c80c0d;
+}
+.footer{
+  background: #54865d;
+  color: #fff;
+  font-size: 14px;
+  border-top: 2px solid #3d6143fb;
+  border-bottom: 2px solid #3d6143fb;
+}
